@@ -94,6 +94,8 @@ Speed              Control playback speed
 Mouse drag         Move canvas
 Mouse wheel        Zoom
 
+![Training visualization](images/demo.png)
+
 ------------------------------------------------------------------------
 
 # Training Process
