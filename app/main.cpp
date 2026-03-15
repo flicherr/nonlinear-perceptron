@@ -9,7 +9,7 @@ void apply()
     AppState state;
     try {
         const std::vector<Sample> data = dataset::load_from_file(
-            "../scripts/dataset.csv");
+            "scripts/dataset.csv");
         auto [train, test] = dataset::split(data);
 
         state.data.train = std::move(train);
