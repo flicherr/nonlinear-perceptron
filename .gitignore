@@ -1,0 +1,6 @@
+cmake-build-debug/
+build/
+.idea/
+memlogs.log
+dataset_save.csv
+imgui.ini
